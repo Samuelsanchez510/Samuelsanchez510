@@ -1,26 +1,9 @@
 ### Welcome! 😄
-Hello! My name is Samuel Sanchez and I am a third-year student majoring in Business-economics at UCLA. 
-
-GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
-  - Evacuation Site Suitability Analysis
-  - Bridging the Darien Gap with Cost Analysis
-  - T-Mobile Cellular Tower Network Devleopment
-  - Major California City Temperatures in August
-
-Personal/Team Projects (Language(s)/Framework)
-  - Twitch Moderator Bot (Node.js)
-  - Bruin Bites (React.js)
+Hello! My name is Samuel Sanchez and I am a third-year student majoring in Business-economics at UCLA. I have a strong interest in Product Management and currently working on expanding my Technical background by learning new lanugages as well as taking on new projects. 
 
 
-Classes Repositories were Provided For (Institution, Language(s)/Framework)
-  - COM-SCI-31: Introduction to Computer Science I  (UCLA, C++)
-  - EC-ENGR-3: Introduction to Electrical Engineering (UCLA, Arduino)
-  - COMPSCI-1: Introduction to Computer Science 1 (Chaffey College, C++)
-  - COMPSCI-2: Introduction to Computer Science 2 (Chaffey College, C++)
-  - CISPROG-5: Programming with Python (Chaffey College, Python)
-  - CISGAME-420: Mobile/Game Development (Chaffey College, HTML, CSS, JavaScript)
-  - GEOG-181A: Intermediate Geographic Information Systems (UCLA, ArcGIS Pro and Python)
-  - GEOG-181B: Advanced Geographic Information Systems (UCLA, ArcGIS Pro and Python)
+Personal Projects (Language(s)/Framework)
+  - PyShop (Python)
 <!--
 **jardondaful/jardondaful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

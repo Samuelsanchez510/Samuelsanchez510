@@ -1,5 +1,5 @@
 ### Welcome! 😄
-Hello! My name is Jordan Lin and I am a second year student majoring in Computer Science and Engineering and minoring in Geospatial Information Systems and Technologies at UCLA. 
+Hello! My name is Samuel Sanchez and I am a third-year student majoring in Business-economics at UCLA. 
 
 GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
   - Evacuation Site Suitability Analysis

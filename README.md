@@ -1,5 +1,5 @@
 ### Welcome! 😄
-Hello! My name is Samuel Sanchez and I am a third-year student majoring in Business-economics at UCLA. I have a strong interest in Product Management and currently working on expanding my Technical background by learning new lanugages as well as taking on new projects. 
+Hello! My name is Samuel Sanchez and I am a third-year student majoring in Business-economics at UCLA. I have a strong interest in Product Management and currently working on expanding my Technical background by learning new languages as well as taking on new projects. 
 
 
 Personal Projects (Language(s)/Framework)
